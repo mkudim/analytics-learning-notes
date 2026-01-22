@@ -215,3 +215,6 @@ __marimo__/
 # разрешаем sample-данные
 !04_projects/**/data_sample/
 !04_projects/**/data_sample/*.csv
+
+# игнорируемые файлы проектов
+04_projects/project_01_sportmaster_funnel/project_01_notes.md
