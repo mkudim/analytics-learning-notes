@@ -217,8 +217,5 @@ __marimo__/
 !04_projects/**/data_sample/*.csv
 
 # игнорируемые файлы проектов
-04_projects/project_01_sportmaster_funnel/project_01_notes.md
-03_bi_tools/metabase/metabase_notes.md
-04_projects/project_template.md
-03_bi_tools/bi_tool_note_template.md
-01_domains/domain_note_template.md
+*notes*.md
+*template*.md
