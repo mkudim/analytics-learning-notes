@@ -219,3 +219,8 @@ __marimo__/
 # игнорируемые файлы проектов
 *notes*.md
 *template*.md
+*notes*.ipynb
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
