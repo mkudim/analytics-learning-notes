@@ -220,6 +220,7 @@ __marimo__/
 *notes*.md
 *template*.md
 *notes*.ipynb
+*.csv
 
 .venv/
 __pycache__/
