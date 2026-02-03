@@ -1,0 +1,11 @@
+SELECT
+    MIN(product_price),
+    MAX(product_price),
+    MIN(ret_discount),
+    MAX(ret_discount)
+FROM dm.events;
+
+SELECT
+    event_id
+FROM dm.events
+WHERE ret_discount > product_price;
