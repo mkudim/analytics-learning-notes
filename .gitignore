@@ -221,6 +221,7 @@ __marimo__/
 *template*.md
 *notes*.ipynb
 *.csv
+*.xlsx
 
 .venv/
 __pycache__/
