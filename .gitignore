@@ -222,6 +222,7 @@ __marimo__/
 *notes*.ipynb
 *.csv
 *.xlsx
+*.pdf
 
 .venv/
 __pycache__/
