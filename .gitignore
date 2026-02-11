@@ -220,6 +220,9 @@ __marimo__/
 *.csv
 *.xlsx
 *.pdf
+*.xml
+*.drawio
+
 
 .venv/
 __pycache__/
