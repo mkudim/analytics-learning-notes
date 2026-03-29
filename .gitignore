@@ -206,9 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# игнорируем все CSV по умолчанию
-*.csv
-
 # игнорируем raw-данные
 04_projects/**/data_raw/
 
@@ -220,6 +217,12 @@ __marimo__/
 *notes*.md
 *template*.md
 *notes*.ipynb
+*.csv
+*.xlsx
+*.pdf
+*.xml
+*.drawio
+
 
 .venv/
 __pycache__/
