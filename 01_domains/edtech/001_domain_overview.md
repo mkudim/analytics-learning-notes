@@ -227,3 +227,41 @@ GetCourse прямо продвигает подписки, upsell и встро
     Не одно поле “progress_percent”. Прогресс бывает по контенту, по обязательным заданиям, по оценке, по компетенциям, по сертификатному треку.
 
 **Ключевая мысль**: в edtech почти всегда есть минимум три разные модели истины — коммерческая, продуктовая и образовательная. Если их не связать, отчеты будут ошибочными.
+
+## Примеры компаний домена
+
+#### Российский контур
+
+**Яндекс Практикум** — career/reskilling и upskilling: программирование, анализ данных, маркетинг, менеджмент, английский, магистратуры и профессиональные треки.
+
+**Skyeng / Skysmart / Skypro** — экосистема: взрослое языковое обучение, детское обучение, карьерные курсы и корпоративный английский. Skyeng совмещает преподавателей, разговорные клубы, self-study, AI-практику и статистику прогресса; корпоративное направление продает обучение компаниям и HR-кабинет.
+
+**Фоксфорд** — школьный сегмент: курсы, репетиторы, домашняя школа, подготовка к экзаменам, продукты для детей и родителей.
+
+**Учи.ру** — школьная онлайн-платформа с интерактивными курсами для 1–11 классов, подготовкой к экзаменам и сервисами для учителей, родителей и школьников.
+
+**Skillbox** — adult learning/reskilling, degree and business education, Career Center, corporate training, своя LMS.
+
+**GetCourse** — platform layer: платформа для запуска онлайн-школ, вебинаров, подписок, upsell и аналитики с привязкой к платежам.
+
+**iSpring** — корпоративный LMS и authoring/corporate learning stack: onboarding, assessment, compliance, reporting, integrations.
+
+#### Международный контур
+
+**Coursera / Coursera for Business** — курсы, сертификаты, degree programs, enterprise upskilling.
+
+**Udemy / Udemy Business** — marketplace-подход к курсам плюс корпоративная библиотека и hands-on learning.
+
+**edX** — университетские и профессиональные программы: курсы, сертификаты, degrees.
+
+**Duolingo** — freemium/subscription language learning, включая premium tiers Super и Max.
+
+**Preply** — marketplace частных онлайн-преподавателей языков.
+
+**Outschool** — marketplace/classes for kids and teens.
+
+**Moodle / Canvas / Blackboard** — инфраструктурный слой LMS для education, business, government и higher education.
+
+**Khan Academy** — nonprofit-модель бесплатного образования.
+
+**MasterClass** — consumer content subscription с доступом к библиотеке классов по annual membership.
