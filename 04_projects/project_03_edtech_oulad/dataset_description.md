@@ -2,7 +2,7 @@
 
 [SOURCE](https://analyse.kmi.open.ac.uk/open-dataset)
 
-This page introduces the anonymised Open University Learning Analytics Dataset (OULAD). It contains data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules). Presentations of courses start in February and October - they are marked by "B" and "J" respectively. The dataset consists of tables connected using unique identifiers. All tables are stored in the csv format.
+Эта страница представляет анонимизированный набор данных Open University Learning Analytics Dataset (OULAD). Он содержит данные о курсах, студентах и их взаимодействии с виртуальной средой обучения (Virtual Learning Environment, VLE) для семи выбранных курсов (здесь они называются модулями). Запуски курсов начинаются в феврале и октябре — они помечены буквами «B» и «J» соответственно. Набор данных состоит из таблиц, связанных между собой с помощью уникальных идентификаторов. Все таблицы хранятся в формате CSV.
 
 ## courses.csv
 Файл содержит список всех доступных модулей и их презентаций. В нём представлены следующие столбцы:
